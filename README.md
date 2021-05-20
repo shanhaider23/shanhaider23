@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**shanhaider23/shanhaider23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Shan-e-Haider Bukhari, a Full stack-Developer 🚀 from Copenhagen(Denmark), I am enthusiastic and highly motivated Developer.
 
-Here are some ideas to get you started:
+Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning React JS;
+👯 I’m looking for a new challenge in software development. I am always aiming to do my best and achieve my goals.  🤝;
+💬 Ask me about anything, I will try my best;
+⚡️ Fun fact:You never feel you are expert. Everyday is learning.
+📫 How to reach me: shan.haider@gmail.com;
+Languages and Tools:
+
+ HTML, CSS, JavaScript, NodeJS, React, Git/Github, MySQL, MangoDB, Bootstrap 
