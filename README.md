@@ -11,4 +11,4 @@ Talking about Personal Stuffs:
 📫 How to reach me: shan.haider@gmail.com;
 Languages and Tools:
 
- HTML, CSS, JavaScript, NodeJS, React, Git/Github, MySQL, MangoDB, Bootstrap 
+ HTML, CSS, JavaScript, NodeJS, React, Git/Github, MySQL, MongoDB, Bootstrap 
