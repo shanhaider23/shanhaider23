@@ -1,8 +1,16 @@
-### Hi there 👋
+### Hi 👋
 
-Hi, I'm Shan-e-Haider Bukhari, a Full stack-Developer 🚀 from Copenhagen(Denmark), I am enthusiastic and highly motivated Developer.
+## I'm Shan-e-Haider Bukhari.
 
-Talking about Personal Stuffs:
+I am a Full stack-Developer 🚀 from Copenhagen(Denmark), I am enthusiastic and highly motivated Developer.
+
+<div>
+<a href="https://www.linkedin.com/in/shan-e-haider-bukhari-66316526/" target="_blank"><img src=
+' alt='LinkedIn' width="8%"></a>
+<a href="https://shan-e-haider.netlify.app/" target="_blank">Potfolio</a>
+</div>
+
+## Talking about Personal Stuffs:
 
 🌱 I’m currently learning React JS;
 👯 I’m looking for a new challenge in software development. I am always aiming to do my best and achieve my goals.  🤝;
