@@ -6,7 +6,10 @@
 I am enthusiastic and highly motivated Developer.
 I am always aiming to do my best and achieve my goals.  🤝;
 
+<div>
+  <img src ="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="HTML5 logo" width="8%" title='HTML5'/>
 <a href="https://haiderium.vercel.app/" target="_blank" >Potfolio</a>
+ </div>
 <div>
 <a href="https://www.linkedin.com/in/shan-e-haider-bukhari-66316526/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"
 ' alt='LinkedIn' width="5%"></a>
