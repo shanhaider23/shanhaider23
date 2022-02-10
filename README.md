@@ -1,25 +1,30 @@
 ### Hi 👋
 
-## Shan-e-Haider Bukhari.
+# Shan-e-Haider Bukhari.
 
 <div>I am a Full stack-Developer 🚀 from Copenhagen, Denmark. </div>
 I am enthusiastic and highly motivated Developer.
 I am always aiming to do my best and achieve my goals.  🤝;
+
+# Potfolio
 <div>
-   <a href="https://haiderium.vercel.app/" target="_blank" ><img src ="https://thumbs.dreamstime.com/b/online-marketing-portfolio-icon-element-premium-quality-graphic-design-signs-   
-      symbols-collection-websites-web-white-144857696.jpg" alt="HTML5 logo" width="10%" title='Potfolio'/></a>
-<div>
-<a href="https://www.linkedin.com/in/shan-e-haider-bukhari-66316526/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"
-' alt='LinkedIn' width="5%"></a>
-</div>  
-  
-  
+<a href="https://haiderium.vercel.app/" target="_blank" ><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymJUKmmNHlaQcawVMWJi_twnNRVQYDehSXA&usqp=CAU" alt="Potfolio logo" width="10%" title='Potfolio'/></a>
 </div>
 
 
-## Technologies which I learned and use:
+# Linkedin
+ <div>
+<a href="https://www.linkedin.com/in/shan-e-haider-bukhari-66316526/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"
+' alt='LinkedIn' width="10%"></a>
+</div>  
+  
+  
 
- ### Frontend Technologies
+
+
+# Technologies which I learned and use:
+
+ ## Frontend Technologies
 <div>
   <img src ="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="HTML5 logo" width="8%" title='HTML5'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo" width="8%" title='CSS3'/>
@@ -30,7 +35,7 @@ I am always aiming to do my best and achieve my goals.  🤝;
     
 <div> 
  
- ### Backend Technologies
+ ## Backend Technologies
  
  <div>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="Node logo" width="8%" title='Nodejs'/>
@@ -40,7 +45,7 @@ I am always aiming to do my best and achieve my goals.  🤝;
   <img src ="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470--x.png" alt="Django logo" width="11%" title='MondoDB'/>
 </div>
  
- ### Tools
+ ## Tools
  
  
  <div>
@@ -51,8 +56,9 @@ I am always aiming to do my best and achieve my goals.  🤝;
   <img src ="https://www.silversites.es/wp-content/uploads/2019/07/nodemon.jpg" alt="Nodemon logo" width="11%" title='Nodemon'/> 
 </div>
 
+   ## Top Languages Card
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanhaider23&layout)](https://github.com/shanhaider23/github-readme-stats)
- 
+ ![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanhaider23&show_icons=true&theme=radical)
 <div>
 💬 Ask me about anything, I will try my best;<br>
  ⚡️ <strong>Fun fact:</strong> You never feel you are expert everyday is learning.<br>
