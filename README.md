@@ -8,7 +8,7 @@ I am always aiming to do my best and achieve my goals.  🤝;
 
 <div>
   
-<a href="https://haiderium.vercel.app/" target="_blank" ><img src ="<img src ="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" alt="HTML5 logo" width="8%" title='Potfolio'/>" alt=" logo" width="8%" title='HTML5'/></a>
+<a href="https://haiderium.vercel.app/" target="_blank" ><img src ="https://thumbs.dreamstime.com/b/online-marketing-portfolio-icon-element-premium-quality-graphic-design-signs-symbols-collection-websites-web-white-144857696.jpg" alt="HTML5 logo" width="8%" title='Potfolio'/></a>
  </div>
 <div>
 <a href="https://www.linkedin.com/in/shan-e-haider-bukhari-66316526/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"
