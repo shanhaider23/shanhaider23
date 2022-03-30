@@ -34,7 +34,8 @@ I am always aiming to do my best and achieve my goals.  🤝;
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react logo" width="11%" title='React'/>
   <img src ="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="Next logo" width="11%" title="Next"/> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.png" alt="Tail logo" width="21%" title="Tail"/>
-<div> 
+  <img src="https://miro.medium.com/max/1400/1*Smbj_VLH7JRp9GhLaKyiUQ.png" alt="material ui" width="20%" title="Material ui"/>
+ <div> 
  
  ## Backend Technologies
  
