@@ -32,7 +32,7 @@ I am always aiming to do my best and achieve my goals.  🤝;
   <img src ="https://media.lex.dk/media/60707/standard_js.png" alt="JavaScript logo" width="8%" title='JavaScript'/>
   <img src ="https://miro.medium.com/max/638/1*VcfWDfMSXGmfwed-iybBVw.png" alt="ES6 logo" width="8%" title='ES6'/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react logo" width="11%" title='React'/>
-    
+  <img src ="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="Next logo" width="11%" title="Next"/> 
 <div> 
  
  ## Backend Technologies
