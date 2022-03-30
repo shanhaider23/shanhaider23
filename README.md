@@ -19,9 +19,7 @@ I am always aiming to do my best and achieve my goals.  🤝;
 </div>  
   
   
-<p align="center">
-  <img src="https://github.com/shanhaider23/shanhaider23/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
 
 
 # Technologies which I learned and use:
