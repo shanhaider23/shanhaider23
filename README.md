@@ -51,6 +51,7 @@ I am always aiming to do my best and achieve my goals.  🤝;
  
  <div>
   <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQogjg4N6W71i_Lmr3XtJWFsNcsKaZeOrkBHXgNrnpyQh3xE95bga5huWLAkBih7wp9Log&usqp=CAU" alt="Figma logo" width="10%" title='Figma'/>
+ <img src ="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="8%" title='Docker'/>
   <img src ="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code_ozwVHSV.png" alt="VS Code logo" width="8%" title='Visual Studio Code'/>
   <img src ="https://miro.medium.com/max/1400/0*6i5XIfD2e5p2IFJW" alt="Git logo" width="11%" title='Git'/>
   <img src ="https://res.cloudinary.com/practicaldev/image/fetch/s--A-93deMc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/or34romslob844gmmv90.png" alt="storybook" width="11%" title='Storybook'/>
