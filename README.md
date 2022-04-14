@@ -61,6 +61,7 @@ I am always aiming to do my best and achieve my goals.  🤝;
 
    ## Top Languages Card
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanhaider23&layout)](https://github.com/shanhaider23/github-readme-stats)
+ <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?shanhaider23" frameborder="0"></iframe>
  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanhaider23&theme=dark)](https://git.io/streak-stats)
  ![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanhaider23&show_icons=true&theme=radical)
