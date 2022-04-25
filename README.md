@@ -67,15 +67,16 @@ I am always aiming to do my best and achieve my goals.  🤝;
 </div>
 
    ## Top Languages Card
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanhaider23&layout)](https://github.com/shanhaider23/github-readme-stats)
- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?shanhaider23" frameborder="0"></iframe>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shanhaider23&layout)](https://github.com/shanhaider23/github-readme-stats)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanhaider23&theme=dark)](https://git.io/streak-stats)
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanhaider23&theme=dark)](https://git.io/streak-stats)
- ![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanhaider23&show_icons=true&theme=radical)
  
-<div>
+
+ ![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanhaider23&show_icons=true&theme=radical) 
+  <div>
 💬 Ask me about anything, I will try my best;<br>
  ⚡️ <strong>Fun fact:</strong> You never feel you are expert everyday is learning.<br>
  📫 How to reach me: <strong>shan.haider@gmail.com</strong>
  </div>
+
+
  
