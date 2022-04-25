@@ -9,14 +9,14 @@ I am enthusiastic and highly motivated Developer.
 I am always aiming to do my best and achieve my goals.  🤝;
 
 # Potfolio
-<div>
-<a href="https://haider-portfolio.vercel.app/" target="_blank" ><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymJUKmmNHlaQcawVMWJi_twnNRVQYDehSXA&usqp=CAU" alt="Potfolio logo" width="10%" title='Potfolio'/></a>
+
+| <a href="https://haider-portfolio.vercel.app/" target="_blank" ><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymJUKmmNHlaQcawVMWJi_twnNRVQYDehSXA&usqp=CAU" alt="Potfolio logo" width="10%" title='Potfolio'/></a> |
 
 
-<a href="https://shan-portfolio.vercel.app/" target="_blank" ><img src ="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" alt="Potfolio logo" width="10%" title='Potfolio'/></a>
+| <a href="https://shan-portfolio.vercel.app/" target="_blank" ><img src ="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" alt="Potfolio logo" width="10%" title='Potfolio'/></a> |
 
-<a href="https://haiderium.vercel.app/" target="_blank" ><img src ="https://img.favpng.com/22/21/5/computer-icons-career-portfolio-icon-design-png-favpng-mfnqHB20A14CuA1e4rJYunVe5.jpg" alt="Potfolio logo" width="10%" title='Potfolio'/></a>
-</div>
+| <a href="https://haiderium.vercel.app/" target="_blank" ><img src ="https://img.favpng.com/22/21/5/computer-icons-career-portfolio-icon-design-png-favpng-mfnqHB20A14CuA1e4rJYunVe5.jpg" alt="Potfolio logo" width="10%" title='Potfolio'/></a> |
+
 
 
 # Linkedin
