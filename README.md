@@ -1,7 +1,8 @@
 ### Hi 👋
 
 # Shan-e-Haider Bukhari.
-![DSC_0660](https://user-images.githubusercontent.com/75579156/165082852-1410d73a-2b55-4ce0-a60d-f7f54556c4a4.JPG)
+![DSC_0661](https://user-images.githubusercontent.com/75579156/165084588-ecdb853c-d9ee-4c7c-a00d-e52738f319cc.jpg)
+
 
 <div>I am a Full stack-Developer 🚀 from Copenhagen, Denmark. </div>
 I am enthusiastic and highly motivated Developer.
