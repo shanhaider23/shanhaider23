@@ -78,7 +78,7 @@
 
 ### ⚙️ &nbsp;Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shanhaider23&theme=dracula&hide_border=true)  
+[![Shan's github activity graph](https://activity-graph.herokuapp.com/graph?username=shanhaider23&theme=dracula)](https://github.com/shanhaider23/github-readme-activity-graph)
 
   <div>
 💬 Ask me about anything, I will try my best;<br>
