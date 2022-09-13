@@ -24,47 +24,60 @@
 ' alt='LinkedIn' width="5%"></a>
 </div>  
   
-## 🛠 &nbsp; Tech Stack
+## 🛠 &nbsp; Tech Stack 💻
 
 ### Frontend Technologies
  
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Nextjs](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next)&nbsp; 
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp; 
-![Material UI](https://img.shields.io/badge/-MaterialUi-05122A?style=flat&logo=materialui)&nbsp; 
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue)&nbsp; 
- 
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Vue](https://img.shields.io/badge/-VueJS-000?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Nextjs](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=nextjs)&nbsp; 
+![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=scss) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![Styled Components](https://img.shields.io/badge/Styled%20components-000?logo=styled-components&logoColor=12&style=for-the-badge)
+
  
 ### Backend Technologies
- 
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=Red)&nbsp;
-![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;  
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)&nbsp;
+![.NET](https://img.shields.io/badge/-.net-000?style=for-the-badge&logo=.net)&nbsp;
   
-### Database
+#### Database/State
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-mysql-000?style=for-the-badge&logo=mysql)&nbsp;
 
- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;  
- ![MySQL](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
+#### Web Hosting
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+
+#### CI/CD
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+
+#### Package Manager
+![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
 ### Tools
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)&nbsp;
+![StoryBook](https://img.shields.io/badge/-StoryBook-000?style=for-the-badge&logo=storybook)&nbsp;
  
- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
- ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
- ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=git)&nbsp;
- ![StoryBook](https://img.shields.io/badge/-StoryBook-05122A?style=flat&logo=git)&nbsp;
- ![Nodemon](https://img.shields.io/badge/-Nodemon-05122A?style=flat&logo=git)&nbsp; 
+ #### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
   
-###  &nbsp; GITHUB BADGES
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
- 
- 
+
  ### GitHub Activity
  
  
