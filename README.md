@@ -12,7 +12,7 @@
 - 👯 I’m always aiming to do my best and achieve my goals  🤝
 - 💬 Ask me about coding,content and commmunity ( 3 C's)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanhaider23" alt="shanhaider23" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanhaider23&theme=onedark" alt="shanhaider23" /></a> </p>
 
 ## Portfolio
 
