@@ -92,7 +92,7 @@
 
 ### ⚙️ &nbsp;Graph
 
-[![Shan's github activity graph](https://activity-graph.herokuapp.com/graph?username=shanhaider23&theme=dracula)](https://github.com/shanhaider23/github-readme-activity-graph)
+[![Shan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shanhaider23&theme=dracula)](https://github.com/shanhaider23/github-readme-activity-graph)
 
   <div>
 💬 Ask me about anything, I will try my best;<br>
