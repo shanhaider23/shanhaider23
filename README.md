@@ -3,7 +3,7 @@
 
 ![DSC_0661](https://user-images.githubusercontent.com/75579156/165084588-ecdb853c-d9ee-4c7c-a00d-e52738f319cc.jpg)
 # Hi there 👋 I'm Shan-e-Haider Bukhari ✨
-![](https://komarev.com/ghpvc/?username=shanhaider23&color=green)
+
 
 ## 👨🏻‍💻 &nbsp; About Me
 - 🚀 Full stack-Developer  from Copenhagen, Denmark. 
@@ -11,19 +11,10 @@
 - 🌱 I’m currently learning Django
 - 👯 I’m always aiming to do my best and achieve my goals  🤝
 - 💬 Ask me about coding,content and commmunity ( 3 C's)
+- 💬 Ask me about anything, I will try my best;<br>
+-  ⚡️ <strong>Fun fact:</strong> You never feel you are expert everyday is learning.<br>
+-   📫 How to reach me: <strong>shan.haider@gmail.com</strong>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanhaider23&theme=onedark" alt="shanhaider23" /></a> </p>
-
-## Portfolio
-
- <a href="https://haider-portfolio.vercel.app/" target="_blank" ><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymJUKmmNHlaQcawVMWJi_twnNRVQYDehSXA&usqp=CAU" alt="Potfolio logo" width="5%" title='Potfolio'/>
-
- 
-## Connect with Me
- <div>
-<a href="https://www.linkedin.com/in/shan-e-haider-bukhari-66316526/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"
-' alt='LinkedIn' width="5%"></a>
-</div>  
   
 ## 🛠 &nbsp; Tech Stack 💻
 
@@ -77,28 +68,42 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-  
-
- ### GitHub Activity
- 
- 
-<p align="center">
-<a href="https://github.com/shanhaider23">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shanhaider23&layout=compact&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <p align="left"> 
+ <a href="https://github.com/shanhaider23">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shanhaider23&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shanhaider23&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+ </a> 
 </p>
+
+ <h2 align="center">📊 My Stats</h2>
+<!-- Contributions -->
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanhaider23" alt="shanhaider23" /></p>
+
+<!-- Github stats -->
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanhaider23&show_icons=true&locale=en" alt="shanhaider23" /></p> 
+ 
+
+
+
+
 
 ### ⚙️ &nbsp;Graph
 
-[![Shan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shanhaider23&theme=dracula)](https://github.com/shanhaider23/github-readme-activity-graph)
+[![Shan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shanhaider23&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)](https://github.com/shanhaider23/github-readme-activity-graph)
+ 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanhaider23&theme=onedark" alt="shanhaider23" /></a> </p>                                                                                         
+                                                                                           
 
   <div>
-💬 Ask me about anything, I will try my best;<br>
- ⚡️ <strong>Fun fact:</strong> You never feel you are expert everyday is learning.<br>
- 📫 How to reach me: <strong>shan.haider@gmail.com</strong>
+
  </div>
 
 
- 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/shan-e-haider-bukhari-66316526/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"
+' alt='LinkedIn' width="5%"></a>
+<a href="https://haider-portfolio.vercel.app/" target="_blank" ><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymJUKmmNHlaQcawVMWJi_twnNRVQYDehSXA&usqp=CAU" alt="Potfolio logo" width="5%" title='Potfolio'/>
+</p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shanhaider23&label=Profile%20views&color=0e75b6&style=flat" alt="shanhaider23" /> </p> 
