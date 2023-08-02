@@ -90,8 +90,7 @@
 
 ### ⚙️ &nbsp;Graph
 
-[![Shan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shanhaider23&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)](https://github.com/shanhaider23/github-readme-activity-graph)
- [![Shan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shanhaider23)](https://github.com/shanhaider23/github-readme-activity-graph)
+[![Shan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shanhaider23&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)](https://github.com/shanhaider23/github-readme-activity-graph)
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanhaider23&theme=onedark" alt="shanhaider23" /></a> </p>                                                                                         
                                                                                            
 
