@@ -3,7 +3,7 @@
 
 ![DSC_0661](https://github.com/user-attachments/assets/4e4fa6d6-9330-4908-a123-1af16f457147)
 
-# Hi there 👋 I'm Shan-e-Haider Bukhari ✨
+# Hi there 👋 
 
 
 ## 👨🏻‍💻 &nbsp; About Me
