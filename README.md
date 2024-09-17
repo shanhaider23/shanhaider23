@@ -1,7 +1,8 @@
 
 
 
-![DSC_0661](https://user-images.githubusercontent.com/75579156/165084588-ecdb853c-d9ee-4c7c-a00d-e52738f319cc.jpg)
+![DSC_0661](https://github.com/user-attachments/assets/4e4fa6d6-9330-4908-a123-1af16f457147)
+
 # Hi there 👋 I'm Shan-e-Haider Bukhari ✨
 
 
