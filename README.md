@@ -9,9 +9,9 @@
 ## 👨🏻‍💻 &nbsp; About Me
 - 🚀 Full stack-Developer  from Copenhagen, Denmark. 
 - 🔭 I’m currently working on Vue 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning DevOps
 - 👯 I’m always aiming to do my best and achieve my goals  🤝
-- 💬 Ask me about coding,content and commmunity ( 3 C's)
+- 💬 Ask me about coding, content and community ( 3 C's)
 - 💬 Ask me about anything, I will try my best;<br>
 -  ⚡️ <strong>Fun fact:</strong> You never feel you are expert everyday is learning.<br>
 -   📫 How to reach me: <strong>shan.haider@gmail.com</strong>
