@@ -18,48 +18,56 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 &nbsp; Tech Stack 💻
 
-### 🚀 Frontend
+### Frontend Technologies
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
-![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=sass)
+![Vue](https://img.shields.io/badge/-VueJS-000?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Nextjs](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=nextjs)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-000?style=for-the-badge&logo=scss) 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?style=for-the-badge&logo=styled-components)
+![Styled Components](https://img.shields.io/badge/Styled%20components-000?logo=styled-components&logoColor=12&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 
-### 🧩 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
-![.NET](https://img.shields.io/badge/-.NET-000?style=for-the-badge&logo=.net)
-![RESTful API](https://img.shields.io/badge/-REST%20API-000?style=for-the-badge&logo=fastapi)
+### Backend Technologies
 
-### 🗃️ Database / State Management
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/-python-000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)&nbsp;
+![.NET](https://img.shields.io/badge/-.net-000?style=for-the-badge&logo=.net)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws)
+
+#### Database/State
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-mysql-000?style=for-the-badge&logo=mysql)&nbsp;
 
-### 🌐 Deployment
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+#### CI/CD
+![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
+
+### Web Hosting
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 
-### ⚙️ CI/CD & Tools
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
-![Storybook](https://img.shields.io/badge/-Storybook-000?style=for-the-badge&logo=storybook)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
+### Tools
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-
-### 🛠 Version Control
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)&nbsp;
+![StoryBook](https://img.shields.io/badge/-StoryBook-000?style=for-the-badge&logo=storybook)&nbsp;
+ 
+#### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-
 ---
 
 ## 📊 GitHub Stats
