@@ -72,18 +72,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanhaider23&show_icons=true&theme=algolia" alt="GitHub Stats" height="180"  width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shanhaider23&show_icons=true&theme=algolia" alt="GitHub Stats" />
  
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanhaider23&theme=algolia" alt="GitHub Streak" height="180" width="100%"/>
-</p>
+[![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanhaider23)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shanhaider23&layout=compact&langs_count=10&theme=algolia" />
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shanhaider23&layout=compact&langs_count=10&theme=algolia" height="180"  width="100%"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shanhaider23&theme=dark)](https://git.io/streak-stats)
+
 
 
 ---
