@@ -81,6 +81,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shanhaider23&theme=dark)](https://git.io/streak-stats)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanhaider23&theme=algolia)
+
+
 
 
 ---
@@ -94,13 +97,13 @@
 
 ## 🏆 GitHub Trophies
 
-<br>
 
-<p align="center">
+
+
   <img src="https://github-profile-trophy.vercel.app/?username=shanhaider23&theme=onedark" />
-</p>
 
-<br>
+
+
 
 ---
 
