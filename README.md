@@ -75,13 +75,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=shanhaider23&show_icons=true&theme=algolia" alt="GitHub Stats" />
  
-[![Shan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanhaider23)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shanhaider23&layout=compact&langs_count=10&theme=algolia" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shanhaider23&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanhaider23&theme=algolia)
 
 
 
